@@ -1,0 +1,2 @@
+PermissionGroupNotification = "MedReminders doit pouvoir vous envoyer des notifications, afin de vous rappeler de prendre vos médicaments";
+NSCameraUsageDescription = "MedReminders utilise la caméra pour scanner les ordonnances";
